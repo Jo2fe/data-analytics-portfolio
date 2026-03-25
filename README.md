@@ -1,3 +1,4 @@
+![Sales Performance Dashboard](https://github.com/user-attachments/assets/650089b5-0b3e-4e21-bb71-02b48961e717)
 # Joy Odelade | Data Analyst Portfolio
 
 Data Analyst specializing in SQL, Python, Power BI, and Excel with a focus on business intelligence, operational analytics, and data-driven decision support. My projects demonstrate the complete analytics workflow from data extraction to insight communication.
@@ -155,4 +156,7 @@ Email:
 joyeesan@gmail.com
 
 GitHub:
-(Add profile link)
+https://github.com/Jo2fe
+
+
+
