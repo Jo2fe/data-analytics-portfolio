@@ -94,7 +94,7 @@ Data analysis
 Customer analytics  
 
 Project link:
-(Add your Python repo link)
+https://github.com/Jo2fe/python-customer-segmentation-analysis
 
 ---
 
