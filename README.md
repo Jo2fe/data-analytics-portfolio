@@ -70,7 +70,7 @@ Business intelligence
 KPI reporting  
 
 Project link:
-(Add your SQL repo link)
+https://github.com/Jo2fe/sql-inventory-optimization-analysis
 
 ---
 
@@ -118,7 +118,7 @@ Dashboard reporting
 Data storytelling  
 
 Project link:
-(Add your Power BI repo link)
+https://github.com/Jo2fe/techtronix-powerbi-sales-analysis
 
 ---
 
@@ -149,10 +149,10 @@ AI-assisted analytics
 ## Contact
 
 LinkedIn:
-(Add link)
+https://www.linkedin.com/in/joy-odelade/
 
 Email:
-(Add email)
+joyeesan@gmail.com
 
 GitHub:
 (Add profile link)
